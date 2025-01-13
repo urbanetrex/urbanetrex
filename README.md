@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @urbanetrex
 - 👀 I’m interested in coding in Python & C++ & HTML
-- 😄 Pronouns: funny, cool
 - ⚡ Fun fact: creates fun emoji combos
 
 <!---
