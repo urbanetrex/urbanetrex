@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @urbanetrex
-- 👀 I’m interested in coding in Python & C++ & HTML
-- ⚡ Fun fact: creates fun emoji combos
-
-<!---
-urbanetrex/urbanetrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hello, The Urbane T-rex here!
+### I creates lots of funny stories in urbanetrex/stories.
+### Sometimes, I creates some code to share in urbanetrex/kode.
+### I NEVER EVER commits changes that is not urbanetrex/urbanetrex/README.md on urbanetrex/urbanetrex.
+### I have a file transfer on GitHub (It is private!) to access files in multiple devices on urbanetrex/File-Transfer.
+###### Mention that my Luogu ID is 1431790 (Username: Urbane_T_Rex)
