@@ -23,3 +23,9 @@
 - online-letters **PRIVATE**
 - File-Transfer **PRIVATE**
 - SantaTracker
+  - README.md
+  - bugs.md
+- stories *Stories go out here!*
+  - README.md
+  - The Haunted Circus.pdf
+  - *and a lot of preparation, deleted*
