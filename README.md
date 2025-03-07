@@ -1,1 +1,1 @@
-[Navigator](https://raw.githubusercontent.com/urbanetrex/urbanetrex/main/navigator.md)
+### [Navigator](https://github.com/urbanetrex/urbanetrex/blob/main/navigator.md)
