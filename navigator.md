@@ -8,6 +8,12 @@
   - orac2
     - AIO 2022 Q3.cpp
   - README.md
+  - lib
+    - ColoursAndImages
+      - image_gen
+        - image_gen.py
+      - num3tohex
+        - num3tohex.py
 - qt
   - code
     - maths
