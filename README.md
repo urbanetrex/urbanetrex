@@ -1,5 +1,8 @@
 # 🦖ROAR!
 ## 🦖The urbane T-rex is here!
+### 😃Emotions:
+* 1
+* 2
 ### 🔗Links:
 - 👨‍💻Fun code to share: [urbanetrex/kode](https://github.com/urbanetrex/kode)
 - ❓Get questions and codes: [urbanetrex/qt](https://github.com/urbanetrex/qt)
