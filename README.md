@@ -14,6 +14,7 @@
     <td>Row 3, Col 2</td>
   </tr>
 </table>
+
 ### Fun code to share: [urbanetrex/kode](https://github.com/urbanetrex/kode)
 ### 
 ### Navigator: [urbanetrex/urbanetrex/navigator.md](https://github.com/urbanetrex/urbanetrex/blob/main/navigator.md)
