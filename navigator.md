@@ -35,3 +35,33 @@
   - README.md
   - The Haunted Circus.pdf
   - *and a lot of preparation, deleted*
+- most-important
+  - CodingAssist
+    - _default.filecreator.txt
+    - alex.FileCreatorClass.py
+- alex ***The info inside is shortened, because of the same format. Contact me for more information***
+  - .vscode
+  - 20250216
+    - atcoder.jp_contests_abc388_tasks_abc388_c
+      - atcoder.jp_contests_abc388_tasks_abc388_c
+        - main.cpp
+    - cf-contest-2002c
+      - cf-contest-2002c
+        - .cph
+        - main.cpp
+    - .DS_Store
+  - 20250223
+    - atcoder_abc393_b
+      - .cph
+      - main.cpp
+    - atcoder_abc394_c
+      - .cph
+      - main.cpp
+    - .DS_Store
+  - 20250302
+    - 1)atcoder_abc379_d
+    - homework
+  - 20250309
+  - 20250316
+  - 20250323
+  - 20250330
